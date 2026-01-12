@@ -1,4 +1,3 @@
-````markdown
 # holbertonschool-chatgpt-introduction
 
 This repository is part of the **Holberton School curriculum** and focuses on learning how to use **ChatGPT as a debugging and development assistant**.
@@ -42,7 +41,6 @@ By completing this project, you will learn how to:
 ```bash
 git clone https://github.com/LenyBl/holbertonschool-chatgpt-introduction.git
 cd holbertonschool-chatgpt-introduction
-````
 
 ---
 
@@ -107,8 +105,6 @@ This project is part of the **Holberton School curriculum**.
 
 **Vesna David ROSET**
 
-```
-
 ---
 
 ## ✅ Final verdict
@@ -124,4 +120,3 @@ If you want, I can also:
 - Align wording to a **specific Holberton rubric**
 
 Just say the word 🚀
-```
