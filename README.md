@@ -39,7 +39,7 @@ By completing this project, you will learn how to:
 ### Installation
 
 ```bash
-git clone https://github.com/LenyBl/holbertonschool-chatgpt-introduction.git
+git clone https://github.com/DevEchoFR/holbertonschool-chatgpt-introduction.git
 cd holbertonschool-chatgpt-introduction
 ```
 
