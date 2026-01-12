@@ -41,6 +41,7 @@ By completing this project, you will learn how to:
 ```bash
 git clone https://github.com/LenyBl/holbertonschool-chatgpt-introduction.git
 cd holbertonschool-chatgpt-introduction
+```
 
 ---
 
@@ -90,8 +91,8 @@ Please follow standard Git workflows when submitting changes.
 
 ## 📚 Resources
 
-* [ChatGPT Documentation](https://openai.com/chatgpt)
-* [Holberton School](https://www.holbertonschool.com/)
+- [ChatGPT Documentation](https://openai.com/chatgpt)
+- [Holberton School](https://www.holbertonschool.com/)
 
 ---
 
