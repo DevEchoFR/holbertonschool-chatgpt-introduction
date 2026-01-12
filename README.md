@@ -64,7 +64,7 @@ The `debugging/` directory contains several scripts, including:
 * **checkbook.py**
   Adds error handling to prevent crashes from invalid user input.
 
-* **tic_tac_toe.py**
+* **tic.py**
   Fixes input validation, winner detection, and draw handling.
 
 ---
@@ -86,13 +86,6 @@ The goal was to ensure **correct behavior and no crashes**.
 
 This repository is intended for educational purposes.
 Please follow standard Git workflows when submitting changes.
-
----
-
-## 📚 Resources
-
-- [ChatGPT Documentation](https://openai.com/chatgpt)
-- [Holberton School](https://www.holbertonschool.com/)
 
 ---
 
