@@ -1,4 +1,4 @@
-# holbertonschool-chatgpt-introduction
+# Holbertonschool-ChatGPT-Introduction
 
 This repository is part of the **Holberton School curriculum** and focuses on learning how to use **ChatGPT as a debugging and development assistant**.
 
