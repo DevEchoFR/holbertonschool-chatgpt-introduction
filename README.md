@@ -105,19 +105,3 @@ This project is part of the **Holberton School curriculum**.
 ## 👤 Author
 
 **Vesna David ROSET**
-
----
-
-## ✅ Final verdict
-This README is:
-- ✔ Clear and concise  
-- ✔ Accurate to your work  
-- ✔ Holberton-appropriate  
-- ✔ Reviewer-ready  
-
-If you want, I can also:
-- Produce a **shortened checker-only README**
-- Write a **final project submission summary**
-- Align wording to a **specific Holberton rubric**
-
-Just say the word 🚀
